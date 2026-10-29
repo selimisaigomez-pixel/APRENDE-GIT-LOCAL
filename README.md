@@ -1,0 +1,1 @@
+Colaborador: Compañero de equipo
