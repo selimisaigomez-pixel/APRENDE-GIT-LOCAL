@@ -3,3 +3,4 @@
 =======
 Colaborador: Compañero de equipo
 >>>>>>> feature/colaborador
+## Capacidad 3: ramas y fusiones
